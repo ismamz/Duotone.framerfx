@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "eb34a22f-115f-4429-b832-906ec0130600",
+		"displayName": "Duotone"
+	},
+	"author": "Ismael Martínez",
+	"name": "@framer/ismael.duotone",
+	"version": "1.1.0"
+}
